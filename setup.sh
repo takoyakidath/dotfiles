@@ -18,7 +18,7 @@ do
     w)
       echo "[-w] が指定されました: Windows"
       # 環境設定のコードをここに追加
-      ./win/setup.sh
+      ./windows/setup.sh
       ;;
     m)
       echo "[-m] が指定されました: Mac"
