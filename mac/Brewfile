@@ -1,0 +1,55 @@
+#CLI
+brew install aria2
+brew install awscli
+brew install unrar
+brew install cloudflared
+brew install cmake
+brew install ffmpeg
+brew install gh
+brew install git
+brew install git-lfs
+brew install gnupg
+brew install go
+brew install httpd
+brew install pinentry-touchid
+brew install minikube
+brew install mongosh
+brew install nginx
+brew install nmap
+brew install perl
+brew install pipx
+brew install pyenv
+brew install python@3.10
+brew install rename
+brew install ruby
+brew install sl
+brew install streamlink
+brew install termbox
+brew install tree
+brew install watchman
+brew install websocat
+brew install wget
+brew install yt-dlp
+brew install zsh-autosuggestions
+brew install zsh-completions
+# GUI
+brew install --cask visual-studio-code
+brew install --cask docker
+brew install --cask google-chrome
+brew install --cask obs
+brew install --cask slack
+brew install --cask steam
+brew install --cask utm
+brew install --cask wireshark
+brew install --cask zoom
+brew install --cask rectangle
+brew install --cask signal
+brew install --cask keybase
+brew install --cask discord
+brew install --cask gimp
+brew install --cask blender
+brew install --cask figma
+brew install --cask obsidian
+brew install --cask visual-studio
+brew install --cask minecraft
+
